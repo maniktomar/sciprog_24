@@ -1,0 +1,42 @@
+commit 40fc664e4d16c1aa71144c9fcee46a3ed41030be (HEAD -> master, origin/master)
+Author: Manik Tomar <maniktomar009@gmail.com>
+Date:   Sun Nov 24 00:58:11 2024 +0000
+
+    Add practical08 Codes
+
+commit ef1f01738f95b80fc1f281eba22f45555971dc26
+Author: Manik Tomar <maniktomar009@gmail.com>
+Date:   Sun Nov 22 00:57:31 2024 +0000
+
+    Add practical07 Codes
+
+commit 41d38fbc82d4b0b4aecc06e6acbd7830cc1ecb3c
+Author: Manik Tomar <maniktomar009@gmail.com>
+Date:   Sun Nov 18 09:56:48 2024 +0000
+
+    Add practical06 Codes
+
+commit 414c094d215e7b379bd773d8a31492051934c545
+Author: Manik Tomar <maniktomar009@gmail.com>
+Date:   Sun Nov 15 11:00:10 2024 +0000
+
+    Add practical05 Codes
+
+commit d725d73fa9321de47fb6ddac6d8d8d4249accfcf
+Author: Manik Tomar <maniktomar009@gmail.com>
+Date:   Sun Nov 11 08:47:18 2024 +0000
+
+    Add practical04 Codes
+
+commit f45dde63a688557a26c4cbbdd9e8c3db952ca681
+Author: Manik Tomar <maniktomar009@gmail.com>
+Date:   Sun Nov 09 00:45:31 2024 +0000
+
+    Add practical03 Codes
+
+commit 294d0315ffa99d2d2918e76b779dc5d7b6fb2629
+Author: Manik Tomar <maniktomar009@gmail.com>
+Date:   Sun Nov 07 04:37:56 2024 +0000
+
+    Add practical02 Codes
+:

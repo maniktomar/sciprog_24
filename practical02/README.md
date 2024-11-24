@@ -6,7 +6,7 @@ gcc Conversion Conversion.c -lm
 
 gcc Sum Sum.c -lm
 
-Execute
+Execute:-
 
 ./Conversion
 

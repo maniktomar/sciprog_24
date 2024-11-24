@@ -1,2 +1,13 @@
+This is Practical 03 :-
 
-this is practical03
+Compile :-
+
+gcc trapezodial trapezodial.c -lm
+
+Execute :-
+
+./trapezodial
+
+Output :-
+
+Approximation of integral: 0.695045 Expected value: 0.693147

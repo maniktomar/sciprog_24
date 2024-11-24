@@ -1,6 +1,6 @@
 This is practical02 below:-
 
-Compile
+Compile:-
 
 gcc Conversion Conversion.c -lm
 
@@ -10,7 +10,7 @@ Execute
 
 ./Conversion
 
-Output:
+1.Output:-
 
 The number of digits is 25
 
@@ -18,7 +18,7 @@ inum=33554431, fnum=33554432.000000, inum in binary=1111111111111111111111111
 
 ./Sum
 
-Output:
+2.Output:-
 
 Sum1=7.485478
 

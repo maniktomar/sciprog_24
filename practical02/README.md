@@ -2,9 +2,9 @@ This is practical02 below:-
 
 Compile:-
 
-gcc Conversion Conversion.c -lm
+gcc -o Conversion Conversion.c -lm
 
-gcc Sum Sum.c -lm
+gcc -o Sum Sum.c -lm
 
 Execute:-
 

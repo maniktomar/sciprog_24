@@ -2,7 +2,7 @@ This is Practical 03 :-
 
 Compile :-
 
-gcc trapezodial trapezodial.c -lm
+gcc -o trapezodial trapezodial.c -lm
 
 Execute :-
 

@@ -2,11 +2,11 @@ This is Practical 03 :-
 
 Compile :-
 
-gcc practical3.c Practical3C -lm
+gcc trapezodial trapezodial.c -lm
 
 Execute :-
 
-./Practical3c
+./trapezodial
 
 Output :-
 
